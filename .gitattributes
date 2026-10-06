@@ -1,4 +1,4 @@
 *.vhd linguist-detectable=true
 *.ipynb linguist-detectable=false
-*.c linguist-detectable=false
+*.h linguist-detectable=false
 
